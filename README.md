@@ -1,2 +1,2 @@
 ### Learn-git
-##Simple reporsitory
+## Simple reporsitory
